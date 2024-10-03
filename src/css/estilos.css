@@ -10,6 +10,7 @@ body {
     max-width: 1120px;
     background: linear-gradient(150deg, #000000, #a50202, #000000ec);
     background-size: 180% 180%;
+   /* animation: mymove 4s ease infinite; */
 }
 
 .cabecalho {
@@ -134,7 +135,7 @@ body {
     box-shadow: white 0px 0px 20px 2px;
 }
 
-.home .foto.sombra-interna {}
+/*.home .foto.sombra-interna {}*/
 
 .projetos {
     padding: 70px 70px;
@@ -146,7 +147,8 @@ body {
     font-size: 45px;
     font-weight: 600;
     text-transform: uppercase;
-    font-family: "Cormorant Infant", sans-serif;
+    /*font-family: "Cormorant Infant", sans-serif;*/
+    font-family: 'Berry Rotunda';
 }
 
 .projetos .container-projetos {
