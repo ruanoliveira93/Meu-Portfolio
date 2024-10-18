@@ -148,7 +148,7 @@ body {
     font-weight: 600;
     text-transform: uppercase;
     /*font-family: "Cormorant Infant", sans-serif;*/
-    font-family: 'Berry Rotunda';
+    font-family: 'Berry Rotunda', 'Cormorant Infant', sans-serif;
 }
 
 .projetos .container-projetos {
